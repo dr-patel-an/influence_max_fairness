@@ -1,0 +1,1172 @@
+Current working directory for the code /home/ec2-user/SageMaker/influence_max_fairness/Data
+120 0.1 5 50 10
+Reading the network
+Completed reading the network.
+------------------- 1000
+------------------- 2000
+------------------- 3000
+------------------- 4000
+------------------- 5000
+------------------- 6000
+------------------- 7000
+------------------- 8000
+------------------- 9000
+------------------- 10000
+------------------- 11000
+------------------- 12000
+------------------- 13000
+------------------- 14000
+------------------- 15000
+------------------- 16000
+------------------- 17000
+------------------- 18000
+------------------- 19000
+------------------- 20000
+------------------- 21000
+------------------- 22000
+------------------- 23000
+------------------- 24000
+------------------- 25000
+------------------- 26000
+------------------- 27000
+------------------- 28000
+------------------- 29000
+------------------- 30000
+------------------- 31000
+------------------- 32000
+------------------- 33000
+------------------- 34000
+------------------- 35000
+------------------- 36000
+------------------- 37000
+------------------- 38000
+------------------- 39000
+------------------- 40000
+------------------- 41000
+------------------- 42000
+------------------- 43000
+------------------- 44000
+------------------- 45000
+------------------- 46000
+------------------- 47000
+------------------- 48000
+------------------- 49000
+------------------- 50000
+------------------- 51000
+------------------- 52000
+------------------- 53000
+------------------- 54000
+------------------- 55000
+------------------- 56000
+------------------- 57000
+------------------- 58000
+------------------- 59000
+------------------- 60000
+------------------- 61000
+------------------- 62000
+------------------- 63000
+------------------- 64000
+------------------- 65000
+------------------- 66000
+------------------- 67000
+------------------- 68000
+------------------- 69000
+------------------- 70000
+------------------- 71000
+------------------- 72000
+------------------- 73000
+------------------- 74000
+------------------- 75000
+------------------- 76000
+------------------- 77000
+------------------- 78000
+------------------- 79000
+------------------- 80000
+------------------- 81000
+------------------- 82000
+------------------- 83000
+------------------- 84000
+------------------- 85000
+------------------- 86000
+------------------- 87000
+------------------- 88000
+------------------- 89000
+------------------- 90000
+------------------- 91000
+------------------- 92000
+------------------- 93000
+Number of nodes not found in the graph:  0
+Evaluating fairnsess score of each influencer in train_cascades
+10971
+1170688
+Loss 3 at step 1000: [[0.]]
+Loss 2 at step 1000: [[0.]]
+Loss 1 at step 1000: 42.032635
+Loss 3 at step 2000: [[0.]]
+Loss 2 at step 2000: [[0.]]
+Loss 1 at step 2000: 52.9034
+Loss 3 at step 3000: [[0.]]
+Loss 2 at step 3000: [[0.]]
+Loss 1 at step 3000: 36.607933
+Loss 3 at step 4000: [[0.]]
+Loss 2 at step 4000: [[0.]]
+Loss 1 at step 4000: 71.22543
+Loss 3 at step 5000: [[0.]]
+Loss 2 at step 5000: [[0.]]
+Loss 1 at step 5000: 66.87777
+Loss 3 at step 6000: [[0.]]
+Loss 2 at step 6000: [[0.]]
+Loss 1 at step 6000: 67.60035
+Loss 3 at step 7000: [[0.]]
+Loss 2 at step 7000: [[0.]]
+Loss 1 at step 7000: 52.735783
+Loss 3 at step 8000: [[0.]]
+Loss 2 at step 8000: [[0.]]
+Loss 1 at step 8000: 56.512493
+Loss 3 at step 9000: [[0.]]
+Loss 2 at step 9000: [[0.]]
+Loss 1 at step 9000: 59.698498
+Loss 3 at step 10000: [[0.]]
+Loss 2 at step 10000: [[0.]]
+Loss 1 at step 10000: 58.444942
+Loss 3 at step 11000: [[0.]]
+Loss 2 at step 11000: [[0.]]
+Loss 1 at step 11000: 59.382435
+Loss 3 at step 12000: [[0.]]
+Loss 2 at step 12000: [[0.]]
+Loss 1 at step 12000: 62.67795
+Loss 3 at step 13000: [[0.]]
+Loss 2 at step 13000: [[0.]]
+Loss 1 at step 13000: 82.95361
+Loss 3 at step 14000: [[0.]]
+Loss 2 at step 14000: [[0.]]
+Loss 1 at step 14000: 50.692505
+Loss 3 at step 15000: [[0.]]
+Loss 2 at step 15000: [[0.]]
+Loss 1 at step 15000: 51.380535
+Loss 3 at step 16000: [[0.]]
+Loss 2 at step 16000: [[0.]]
+Loss 1 at step 16000: 40.01841
+Loss 3 at step 17000: [[0.]]
+Loss 2 at step 17000: [[0.]]
+Loss 1 at step 17000: 66.00833
+Loss 3 at step 18000: [[0.]]
+Loss 2 at step 18000: [[0.]]
+Loss 1 at step 18000: 84.04058
+Loss 3 at step 19000: [[0.]]
+Loss 2 at step 19000: [[0.]]
+Loss 1 at step 19000: 34.786377
+Loss 3 at step 20000: [[0.]]
+Loss 2 at step 20000: [[0.]]
+Loss 1 at step 20000: 54.458447
+Loss 3 at step 21000: [[0.]]
+Loss 2 at step 21000: [[0.]]
+Loss 1 at step 21000: 49.422802
+Loss 3 at step 22000: [[0.]]
+Loss 2 at step 22000: [[0.]]
+Loss 1 at step 22000: 55.843933
+Loss 3 at step 23000: [[0.]]
+Loss 2 at step 23000: [[0.]]
+Loss 1 at step 23000: 36.488136
+Loss 3 at step 24000: [[0.]]
+Loss 2 at step 24000: [[0.]]
+Loss 1 at step 24000: 45.08809
+Loss 3 at step 25000: [[0.]]
+Loss 2 at step 25000: [[0.]]
+Loss 1 at step 25000: 59.13677
+Loss 3 at step 26000: [[0.]]
+Loss 2 at step 26000: [[0.]]
+Loss 1 at step 26000: 32.011627
+Loss 3 at step 27000: [[0.]]
+Loss 2 at step 27000: [[0.]]
+Loss 1 at step 27000: 56.90043
+Loss 3 at step 28000: [[0.]]
+Loss 2 at step 28000: [[0.]]
+Loss 1 at step 28000: 29.837992
+Loss 3 at step 29000: [[0.]]
+Loss 2 at step 29000: [[0.]]
+Loss 1 at step 29000: 86.73877
+Loss 3 at step 30000: [[0.]]
+Loss 2 at step 30000: [[0.]]
+Loss 1 at step 30000: 34.564972
+Loss 3 at step 31000: [[0.]]
+Loss 2 at step 31000: [[0.]]
+Loss 1 at step 31000: 38.31848
+Loss 3 at step 32000: [[0.]]
+Loss 2 at step 32000: [[0.]]
+Loss 1 at step 32000: 62.04575
+Loss 3 at step 33000: [[0.]]
+Loss 2 at step 33000: [[0.]]
+Loss 1 at step 33000: 72.265274
+Loss 3 at step 34000: [[0.]]
+Loss 2 at step 34000: [[0.]]
+Loss 1 at step 34000: 47.83091
+Loss 3 at step 35000: [[0.]]
+Loss 2 at step 35000: [[0.]]
+Loss 1 at step 35000: 64.42046
+Loss 3 at step 36000: [[0.]]
+Loss 2 at step 36000: [[0.]]
+Loss 1 at step 36000: 46.458313
+Loss 3 at step 37000: [[0.]]
+Loss 2 at step 37000: [[0.]]
+Loss 1 at step 37000: 20.641754
+Loss 3 at step 38000: [[0.]]
+Loss 2 at step 38000: [[0.]]
+Loss 1 at step 38000: 51.61749
+Loss 3 at step 39000: [[0.]]
+Loss 2 at step 39000: [[0.]]
+Loss 1 at step 39000: 19.525637
+Loss 3 at step 40000: [[0.]]
+Loss 2 at step 40000: [[0.]]
+Loss 1 at step 40000: 77.210045
+Loss 3 at step 41000: [[0.]]
+Loss 2 at step 41000: [[0.]]
+Loss 1 at step 41000: 31.94025
+Loss 3 at step 42000: [[0.]]
+Loss 2 at step 42000: [[0.]]
+Loss 1 at step 42000: 64.52884
+Loss 3 at step 1000: [[0.]]
+Loss 2 at step 1000: [[0.]]
+Loss 1 at step 1000: 31.69565
+Loss 3 at step 2000: [[0.]]
+Loss 2 at step 2000: [[0.]]
+Loss 1 at step 2000: 78.93796
+Loss 3 at step 3000: [[0.]]
+Loss 2 at step 3000: [[0.]]
+Loss 1 at step 3000: 58.944958
+Loss 3 at step 4000: [[0.]]
+Loss 2 at step 4000: [[0.]]
+Loss 1 at step 4000: 30.529253
+Loss 3 at step 5000: [[0.]]
+Loss 2 at step 5000: [[0.]]
+Loss 1 at step 5000: 67.42375
+Loss 3 at step 6000: [[0.]]
+Loss 2 at step 6000: [[0.]]
+Loss 1 at step 6000: 44.699005
+Loss 3 at step 7000: [[0.]]
+Loss 2 at step 7000: [[0.]]
+Loss 1 at step 7000: 37.701073
+Loss 3 at step 8000: [[0.]]
+Loss 2 at step 8000: [[0.]]
+Loss 1 at step 8000: 76.94328
+Loss 3 at step 9000: [[0.]]
+Loss 2 at step 9000: [[0.]]
+Loss 1 at step 9000: 19.993591
+Loss 3 at step 10000: [[0.]]
+Loss 2 at step 10000: [[0.]]
+Loss 1 at step 10000: 44.65945
+Loss 3 at step 11000: [[0.]]
+Loss 2 at step 11000: [[0.]]
+Loss 1 at step 11000: 64.97885
+Loss 3 at step 12000: [[0.]]
+Loss 2 at step 12000: [[0.]]
+Loss 1 at step 12000: 30.92429
+Loss 3 at step 13000: [[0.]]
+Loss 2 at step 13000: [[0.]]
+Loss 1 at step 13000: 52.010506
+Loss 3 at step 14000: [[0.]]
+Loss 2 at step 14000: [[0.]]
+Loss 1 at step 14000: 0.0014284103
+Loss 3 at step 15000: [[0.]]
+Loss 2 at step 15000: [[0.]]
+Loss 1 at step 15000: 51.408142
+Loss 3 at step 16000: [[0.]]
+Loss 2 at step 16000: [[0.]]
+Loss 1 at step 16000: 71.197876
+Loss 3 at step 17000: [[0.]]
+Loss 2 at step 17000: [[0.]]
+Loss 1 at step 17000: 40.81652
+Loss 3 at step 18000: [[0.]]
+Loss 2 at step 18000: [[0.]]
+Loss 1 at step 18000: 35.082672
+Loss 3 at step 19000: [[0.]]
+Loss 2 at step 19000: [[0.]]
+Loss 1 at step 19000: 40.051357
+Loss 3 at step 20000: [[0.]]
+Loss 2 at step 20000: [[0.]]
+Loss 1 at step 20000: 30.09787
+Loss 3 at step 21000: [[0.]]
+Loss 2 at step 21000: [[0.]]
+Loss 1 at step 21000: 28.821854
+Loss 3 at step 22000: [[0.]]
+Loss 2 at step 22000: [[0.]]
+Loss 1 at step 22000: 17.716167
+Loss 3 at step 23000: [[0.]]
+Loss 2 at step 23000: [[0.]]
+Loss 1 at step 23000: 53.228443
+Loss 3 at step 24000: [[0.]]
+Loss 2 at step 24000: [[0.]]
+Loss 1 at step 24000: 41.704197
+Loss 3 at step 25000: [[0.]]
+Loss 2 at step 25000: [[0.]]
+Loss 1 at step 25000: 42.235954
+Loss 3 at step 26000: [[0.]]
+Loss 2 at step 26000: [[0.]]
+Loss 1 at step 26000: 24.620316
+Loss 3 at step 27000: [[0.]]
+Loss 2 at step 27000: [[0.]]
+Loss 1 at step 27000: 48.233612
+Loss 3 at step 28000: [[0.]]
+Loss 2 at step 28000: [[0.]]
+Loss 1 at step 28000: 60.21371
+Loss 3 at step 29000: [[0.]]
+Loss 2 at step 29000: [[0.]]
+Loss 1 at step 29000: 38.797043
+Loss 3 at step 30000: [[0.]]
+Loss 2 at step 30000: [[0.]]
+Loss 1 at step 30000: 27.779343
+Loss 3 at step 31000: [[0.]]
+Loss 2 at step 31000: [[0.]]
+Loss 1 at step 31000: 44.88658
+Loss 3 at step 32000: [[0.]]
+Loss 2 at step 32000: [[0.]]
+Loss 1 at step 32000: 51.84896
+Loss 3 at step 33000: [[0.]]
+Loss 2 at step 33000: [[0.]]
+Loss 1 at step 33000: 43.472828
+Loss 3 at step 34000: [[0.]]
+Loss 2 at step 34000: [[0.]]
+Loss 1 at step 34000: 86.18308
+Loss 3 at step 35000: [[0.]]
+Loss 2 at step 35000: [[0.]]
+Loss 1 at step 35000: 44.780807
+Loss 3 at step 36000: [[0.]]
+Loss 2 at step 36000: [[0.]]
+Loss 1 at step 36000: 14.868033
+Loss 3 at step 37000: [[0.]]
+Loss 2 at step 37000: [[0.]]
+Loss 1 at step 37000: 27.298315
+Loss 3 at step 38000: [[0.]]
+Loss 2 at step 38000: [[0.]]
+Loss 1 at step 38000: 11.080602
+Loss 3 at step 39000: [[0.]]
+Loss 2 at step 39000: [[0.]]
+Loss 1 at step 39000: 16.565441
+Loss 3 at step 40000: [[0.]]
+Loss 2 at step 40000: [[0.]]
+Loss 1 at step 40000: 45.009766
+Loss 3 at step 41000: [[0.]]
+Loss 2 at step 41000: [[0.]]
+Loss 1 at step 41000: 19.2943
+Loss 3 at step 42000: [[0.]]
+Loss 2 at step 42000: [[0.]]
+Loss 1 at step 42000: 35.24262
+Loss 3 at step 1000: [[0.]]
+Loss 2 at step 1000: [[0.]]
+Loss 1 at step 1000: 33.64507
+Loss 3 at step 2000: [[0.]]
+Loss 2 at step 2000: [[0.]]
+Loss 1 at step 2000: 100.51686
+Loss 3 at step 3000: [[0.]]
+Loss 2 at step 3000: [[0.]]
+Loss 1 at step 3000: 29.14589
+Loss 3 at step 4000: [[0.]]
+Loss 2 at step 4000: [[0.]]
+Loss 1 at step 4000: 50.007755
+Loss 3 at step 5000: [[0.]]
+Loss 2 at step 5000: [[0.]]
+Loss 1 at step 5000: 31.07874
+Loss 3 at step 6000: [[0.]]
+Loss 2 at step 6000: [[0.]]
+Loss 1 at step 6000: 64.506966
+Loss 3 at step 7000: [[0.]]
+Loss 2 at step 7000: [[0.]]
+Loss 1 at step 7000: 46.89201
+Loss 3 at step 8000: [[0.]]
+Loss 2 at step 8000: [[0.]]
+Loss 1 at step 8000: 33.794796
+Loss 3 at step 9000: [[0.]]
+Loss 2 at step 9000: [[0.]]
+Loss 1 at step 9000: 38.69602
+Loss 3 at step 10000: [[0.]]
+Loss 2 at step 10000: [[0.]]
+Loss 1 at step 10000: 46.45702
+Loss 3 at step 11000: [[0.]]
+Loss 2 at step 11000: [[0.]]
+Loss 1 at step 11000: 40.522583
+Loss 3 at step 12000: [[0.]]
+Loss 2 at step 12000: [[0.]]
+Loss 1 at step 12000: 8.695169
+Loss 3 at step 13000: [[0.]]
+Loss 2 at step 13000: [[0.]]
+Loss 1 at step 13000: 23.903694
+Loss 3 at step 14000: [[0.]]
+Loss 2 at step 14000: [[0.]]
+Loss 1 at step 14000: 22.285372
+Loss 3 at step 15000: [[0.]]
+Loss 2 at step 15000: [[0.]]
+Loss 1 at step 15000: 30.566885
+Loss 3 at step 16000: [[0.]]
+Loss 2 at step 16000: [[0.]]
+Loss 1 at step 16000: 60.112465
+Loss 3 at step 17000: [[0.]]
+Loss 2 at step 17000: [[0.]]
+Loss 1 at step 17000: 53.11442
+Loss 3 at step 18000: [[0.]]
+Loss 2 at step 18000: [[0.]]
+Loss 1 at step 18000: 51.431763
+Loss 3 at step 19000: [[0.]]
+Loss 2 at step 19000: [[0.]]
+Loss 1 at step 19000: 6.7828712
+Loss 3 at step 20000: [[0.]]
+Loss 2 at step 20000: [[0.]]
+Loss 1 at step 20000: 15.695383
+Loss 3 at step 21000: [[0.]]
+Loss 2 at step 21000: [[0.]]
+Loss 1 at step 21000: 28.507998
+Loss 3 at step 22000: [[0.]]
+Loss 2 at step 22000: [[0.]]
+Loss 1 at step 22000: 10.520229
+Loss 3 at step 23000: [[0.]]
+Loss 2 at step 23000: [[0.]]
+Loss 1 at step 23000: 29.173687
+Loss 3 at step 24000: [[0.]]
+Loss 2 at step 24000: [[0.]]
+Loss 1 at step 24000: 37.22182
+Loss 3 at step 25000: [[0.]]
+Loss 2 at step 25000: [[0.]]
+Loss 1 at step 25000: 47.269135
+Loss 3 at step 26000: [[0.]]
+Loss 2 at step 26000: [[0.]]
+Loss 1 at step 26000: 43.293587
+Loss 3 at step 27000: [[0.]]
+Loss 2 at step 27000: [[0.]]
+Loss 1 at step 27000: 37.354546
+Loss 3 at step 28000: [[0.]]
+Loss 2 at step 28000: [[0.]]
+Loss 1 at step 28000: 66.20536
+Loss 3 at step 29000: [[0.]]
+Loss 2 at step 29000: [[0.]]
+Loss 1 at step 29000: 29.085178
+Loss 3 at step 30000: [[0.]]
+Loss 2 at step 30000: [[0.]]
+Loss 1 at step 30000: 29.966904
+Loss 3 at step 31000: [[0.]]
+Loss 2 at step 31000: [[0.]]
+Loss 1 at step 31000: 49.74319
+Loss 3 at step 32000: [[0.]]
+Loss 2 at step 32000: [[0.]]
+Loss 1 at step 32000: 38.3584
+Loss 3 at step 33000: [[0.]]
+Loss 2 at step 33000: [[0.]]
+Loss 1 at step 33000: 49.98996
+Loss 3 at step 34000: [[0.]]
+Loss 2 at step 34000: [[0.]]
+Loss 1 at step 34000: 36.226532
+Loss 3 at step 35000: [[0.]]
+Loss 2 at step 35000: [[0.]]
+Loss 1 at step 35000: 18.933535
+Loss 3 at step 36000: [[0.]]
+Loss 2 at step 36000: [[0.]]
+Loss 1 at step 36000: 9.4373045
+Loss 3 at step 37000: [[0.]]
+Loss 2 at step 37000: [[0.]]
+Loss 1 at step 37000: 50.411144
+Loss 3 at step 38000: [[0.]]
+Loss 2 at step 38000: [[0.]]
+Loss 1 at step 38000: 46.935947
+Loss 3 at step 39000: [[0.]]
+Loss 2 at step 39000: [[0.]]
+Loss 1 at step 39000: 38.277924
+Loss 3 at step 40000: [[0.]]
+Loss 2 at step 40000: [[0.]]
+Loss 1 at step 40000: 55.319164
+Loss 3 at step 41000: [[0.]]
+Loss 2 at step 41000: [[0.]]
+Loss 1 at step 41000: 6.679489
+Loss 3 at step 42000: [[0.]]
+Loss 2 at step 42000: [[0.]]
+Loss 1 at step 42000: 39.069927
+Loss 3 at step 1000: [[0.]]
+Loss 2 at step 1000: [[0.]]
+Loss 1 at step 1000: 48.774967
+Loss 3 at step 2000: [[0.]]
+Loss 2 at step 2000: [[0.]]
+Loss 1 at step 2000: 63.016075
+Loss 3 at step 3000: [[0.]]
+Loss 2 at step 3000: [[0.]]
+Loss 1 at step 3000: 29.44338
+Loss 3 at step 4000: [[0.]]
+Loss 2 at step 4000: [[0.]]
+Loss 1 at step 4000: 41.40186
+Loss 3 at step 5000: [[0.]]
+Loss 2 at step 5000: [[0.]]
+Loss 1 at step 5000: 22.08922
+Loss 3 at step 6000: [[0.]]
+Loss 2 at step 6000: [[0.]]
+Loss 1 at step 6000: 25.056755
+Loss 3 at step 7000: [[0.]]
+Loss 2 at step 7000: [[0.]]
+Loss 1 at step 7000: 38.765194
+Loss 3 at step 8000: [[0.]]
+Loss 2 at step 8000: [[0.]]
+Loss 1 at step 8000: 50.216236
+Loss 3 at step 9000: [[0.]]
+Loss 2 at step 9000: [[0.]]
+Loss 1 at step 9000: 32.50946
+Loss 3 at step 10000: [[0.]]
+Loss 2 at step 10000: [[0.]]
+Loss 1 at step 10000: 22.66925
+Loss 3 at step 11000: [[0.]]
+Loss 2 at step 11000: [[0.]]
+Loss 1 at step 11000: 10.310855
+Loss 3 at step 12000: [[0.]]
+Loss 2 at step 12000: [[0.]]
+Loss 1 at step 12000: 35.653976
+Loss 3 at step 13000: [[0.]]
+Loss 2 at step 13000: [[0.]]
+Loss 1 at step 13000: 40.380844
+Loss 3 at step 14000: [[0.]]
+Loss 2 at step 14000: [[0.]]
+Loss 1 at step 14000: 3.6062653
+Loss 3 at step 15000: [[0.]]
+Loss 2 at step 15000: [[0.]]
+Loss 1 at step 15000: 22.99472
+Loss 3 at step 16000: [[0.]]
+Loss 2 at step 16000: [[0.]]
+Loss 1 at step 16000: 17.586002
+Loss 3 at step 17000: [[0.]]
+Loss 2 at step 17000: [[0.]]
+Loss 1 at step 17000: 27.634312
+Loss 3 at step 18000: [[0.]]
+Loss 2 at step 18000: [[0.]]
+Loss 1 at step 18000: 33.2778
+Loss 3 at step 19000: [[0.]]
+Loss 2 at step 19000: [[0.]]
+Loss 1 at step 19000: 21.285276
+Loss 3 at step 20000: [[0.]]
+Loss 2 at step 20000: [[0.]]
+Loss 1 at step 20000: 15.421245
+Loss 3 at step 21000: [[0.]]
+Loss 2 at step 21000: [[0.]]
+Loss 1 at step 21000: 4.506507
+Loss 3 at step 22000: [[0.]]
+Loss 2 at step 22000: [[0.]]
+Loss 1 at step 22000: 41.548172
+Loss 3 at step 23000: [[0.]]
+Loss 2 at step 23000: [[0.]]
+Loss 1 at step 23000: 24.772755
+Loss 3 at step 24000: [[0.]]
+Loss 2 at step 24000: [[0.]]
+Loss 1 at step 24000: 2.365225
+Loss 3 at step 25000: [[0.]]
+Loss 2 at step 25000: [[0.]]
+Loss 1 at step 25000: 49.665718
+Loss 3 at step 26000: [[0.]]
+Loss 2 at step 26000: [[0.]]
+Loss 1 at step 26000: 13.34812
+Loss 3 at step 27000: [[0.]]
+Loss 2 at step 27000: [[0.]]
+Loss 1 at step 27000: 15.585077
+Loss 3 at step 28000: [[0.]]
+Loss 2 at step 28000: [[0.]]
+Loss 1 at step 28000: 51.354324
+Loss 3 at step 29000: [[0.]]
+Loss 2 at step 29000: [[0.]]
+Loss 1 at step 29000: 14.087695
+Loss 3 at step 30000: [[0.]]
+Loss 2 at step 30000: [[0.]]
+Loss 1 at step 30000: 29.485672
+Loss 3 at step 31000: [[0.]]
+Loss 2 at step 31000: [[0.]]
+Loss 1 at step 31000: 15.242708
+Loss 3 at step 32000: [[0.]]
+Loss 2 at step 32000: [[0.]]
+Loss 1 at step 32000: 32.03005
+Loss 3 at step 33000: [[0.]]
+Loss 2 at step 33000: [[0.]]
+Loss 1 at step 33000: 38.288776
+Loss 3 at step 34000: [[0.]]
+Loss 2 at step 34000: [[0.]]
+Loss 1 at step 34000: 37.01431
+Loss 3 at step 35000: [[0.]]
+Loss 2 at step 35000: [[0.]]
+Loss 1 at step 35000: 40.40351
+Loss 3 at step 36000: [[0.]]
+Loss 2 at step 36000: [[0.]]
+Loss 1 at step 36000: 16.341164
+Loss 3 at step 37000: [[0.]]
+Loss 2 at step 37000: [[0.]]
+Loss 1 at step 37000: 35.922226
+Loss 3 at step 38000: [[0.]]
+Loss 2 at step 38000: [[0.]]
+Loss 1 at step 38000: 28.650791
+Loss 3 at step 39000: [[0.]]
+Loss 2 at step 39000: [[0.]]
+Loss 1 at step 39000: 3.9947867
+Loss 3 at step 40000: [[0.]]
+Loss 2 at step 40000: [[0.]]
+Loss 1 at step 40000: 45.165066
+Loss 3 at step 41000: [[0.]]
+Loss 2 at step 41000: [[0.]]
+Loss 1 at step 41000: 12.939838
+Loss 3 at step 42000: [[0.]]
+Loss 2 at step 42000: [[0.]]
+Loss 1 at step 42000: 41.620228
+Loss 3 at step 1000: [[0.]]
+Loss 2 at step 1000: [[0.]]
+Loss 1 at step 1000: 1.0778659e-05
+Loss 3 at step 2000: [[0.]]
+Loss 2 at step 2000: [[0.]]
+Loss 1 at step 2000: 26.377697
+Loss 3 at step 3000: [[0.]]
+Loss 2 at step 3000: [[0.]]
+Loss 1 at step 3000: 31.969137
+Loss 3 at step 4000: [[0.]]
+Loss 2 at step 4000: [[0.]]
+Loss 1 at step 4000: 27.740282
+Loss 3 at step 5000: [[0.]]
+Loss 2 at step 5000: [[0.]]
+Loss 1 at step 5000: 35.682487
+Loss 3 at step 6000: [[0.]]
+Loss 2 at step 6000: [[0.]]
+Loss 1 at step 6000: 39.36356
+Loss 3 at step 7000: [[0.]]
+Loss 2 at step 7000: [[0.]]
+Loss 1 at step 7000: 12.807744
+Loss 3 at step 8000: [[0.]]
+Loss 2 at step 8000: [[0.]]
+Loss 1 at step 8000: 6.5123444
+Loss 3 at step 9000: [[0.]]
+Loss 2 at step 9000: [[0.]]
+Loss 1 at step 9000: 6.7121334
+Loss 3 at step 10000: [[0.]]
+Loss 2 at step 10000: [[0.]]
+Loss 1 at step 10000: 33.826527
+Loss 3 at step 11000: [[0.]]
+Loss 2 at step 11000: [[0.]]
+Loss 1 at step 11000: 14.007682
+Loss 3 at step 12000: [[0.]]
+Loss 2 at step 12000: [[0.]]
+Loss 1 at step 12000: 0.04526347
+Loss 3 at step 13000: [[0.]]
+Loss 2 at step 13000: [[0.]]
+Loss 1 at step 13000: 32.142548
+Loss 3 at step 14000: [[0.]]
+Loss 2 at step 14000: [[0.]]
+Loss 1 at step 14000: 11.7760935
+Loss 3 at step 15000: [[0.]]
+Loss 2 at step 15000: [[0.]]
+Loss 1 at step 15000: 29.775476
+Loss 3 at step 16000: [[0.]]
+Loss 2 at step 16000: [[0.]]
+Loss 1 at step 16000: 23.192404
+Loss 3 at step 17000: [[0.]]
+Loss 2 at step 17000: [[0.]]
+Loss 1 at step 17000: 25.120846
+Loss 3 at step 18000: [[0.]]
+Loss 2 at step 18000: [[0.]]
+Loss 1 at step 18000: 19.312735
+Loss 3 at step 19000: [[0.]]
+Loss 2 at step 19000: [[0.]]
+Loss 1 at step 19000: 10.76387
+Loss 3 at step 20000: [[0.]]
+Loss 2 at step 20000: [[0.]]
+Loss 1 at step 20000: 41.088455
+Loss 3 at step 21000: [[0.]]
+Loss 2 at step 21000: [[0.]]
+Loss 1 at step 21000: 48.16623
+Loss 3 at step 22000: [[0.]]
+Loss 2 at step 22000: [[0.]]
+Loss 1 at step 22000: 14.662392
+Loss 3 at step 23000: [[0.]]
+Loss 2 at step 23000: [[0.]]
+Loss 1 at step 23000: 62.311745
+Loss 3 at step 24000: [[0.]]
+Loss 2 at step 24000: [[0.]]
+Loss 1 at step 24000: 49.049843
+Loss 3 at step 25000: [[0.]]
+Loss 2 at step 25000: [[0.]]
+Loss 1 at step 25000: 28.28331
+Loss 3 at step 26000: [[0.]]
+Loss 2 at step 26000: [[0.]]
+Loss 1 at step 26000: 27.013844
+Loss 3 at step 27000: [[0.]]
+Loss 2 at step 27000: [[0.]]
+Loss 1 at step 27000: 55.12934
+Loss 3 at step 28000: [[0.]]
+Loss 2 at step 28000: [[0.]]
+Loss 1 at step 28000: 23.004978
+Loss 3 at step 29000: [[0.]]
+Loss 2 at step 29000: [[0.]]
+Loss 1 at step 29000: 8.485413
+Loss 3 at step 30000: [[0.]]
+Loss 2 at step 30000: [[0.]]
+Loss 1 at step 30000: 22.01497
+Loss 3 at step 31000: [[0.]]
+Loss 2 at step 31000: [[0.]]
+Loss 1 at step 31000: 14.225963
+Loss 3 at step 32000: [[0.]]
+Loss 2 at step 32000: [[0.]]
+Loss 1 at step 32000: 16.834255
+Loss 3 at step 33000: [[0.]]
+Loss 2 at step 33000: [[0.]]
+Loss 1 at step 33000: 57.939976
+Loss 3 at step 34000: [[0.]]
+Loss 2 at step 34000: [[0.]]
+Loss 1 at step 34000: 23.349758
+Loss 3 at step 35000: [[0.]]
+Loss 2 at step 35000: [[0.]]
+Loss 1 at step 35000: 28.90539
+Loss 3 at step 36000: [[0.]]
+Loss 2 at step 36000: [[0.]]
+Loss 1 at step 36000: 26.406498
+Loss 3 at step 37000: [[0.]]
+Loss 2 at step 37000: [[0.]]
+Loss 1 at step 37000: 23.625551
+Loss 3 at step 38000: [[0.]]
+Loss 2 at step 38000: [[0.]]
+Loss 1 at step 38000: 22.468092
+Loss 3 at step 39000: [[0.]]
+Loss 2 at step 39000: [[0.]]
+Loss 1 at step 39000: 14.691796
+Loss 3 at step 40000: [[0.]]
+Loss 2 at step 40000: [[0.]]
+Loss 1 at step 40000: 0.121411845
+Loss 3 at step 41000: [[0.]]
+Loss 2 at step 41000: [[0.]]
+Loss 1 at step 41000: 12.57756
+Loss 3 at step 42000: [[0.]]
+Loss 2 at step 42000: [[0.]]
+Loss 1 at step 42000: 39.806736
+10971
+50
+100
+150
+200
+250
+300
+350
+400
+450
+500
+550
+600
+650
+700
+750
+800
+850
+900
+950
+1000
+Weibo/Seeds/final_seeds_5g_05a_500s_1b.txt
+------------------
+Seeds found : 100
+Seeds found : 199
+Seeds found : 293
+Seeds found : 388
+Seeds found : 482
+Seeds found : 482
+Seeds found : 482
+Seeds found : 482
+Seeds found : 482
+Seeds found : 482
+Weibo/Seeds/final_seeds_5g_05a_250s_5b.txt
+------------------
+Seeds found : 98
+Seeds found : 194
+Seeds found : 243
+Seeds found : 243
+Seeds found : 243
+Seeds found : 243
+Seeds found : 243
+Seeds found : 243
+Seeds found : 243
+Seeds found : 243
+Weibo/Seeds/final_seeds_5g_05a_750s_7b.txt
+------------------
+Seeds found : 98
+Seeds found : 190
+Seeds found : 282
+Seeds found : 374
+Seeds found : 461
+Seeds found : 539
+Seeds found : 620
+Seeds found : 665
+Seeds found : 665
+Seeds found : 665
+Weibo/Seeds/final_seeds_250_0.1_.txt
+------------------
+Seeds found : 88
+Seeds found : 179
+Seeds found : 269
+Seeds found : 352
+Seeds found : 438
+Seeds found : 521
+Seeds found : 608
+Seeds found : 695
+Seeds found : 780
+Seeds found : 859
+Weibo/Seeds/final_seeds_5g_05a_1000s_1b.txt
+------------------
+Seeds found : 100
+Seeds found : 198
+Seeds found : 288
+Seeds found : 384
+Seeds found : 479
+Seeds found : 565
+Seeds found : 651
+Seeds found : 735
+Seeds found : 821
+Seeds found : 902
+Weibo/Seeds/final_seeds_5g_05a_1000s_3b.txt
+------------------
+Seeds found : 99
+Seeds found : 199
+Seeds found : 295
+Seeds found : 387
+Seeds found : 475
+Seeds found : 552
+Seeds found : 636
+Seeds found : 722
+Seeds found : 805
+Seeds found : 881
+Weibo/Seeds/final_seeds_5g_05a_500s_5b.txt
+------------------
+Seeds found : 94
+Seeds found : 187
+Seeds found : 285
+Seeds found : 377
+Seeds found : 461
+Seeds found : 461
+Seeds found : 461
+Seeds found : 461
+Seeds found : 461
+Seeds found : 461
+Weibo/Seeds/final_seeds_5g_05a_1250s_0_5b.txt
+------------------
+Seeds found : 100
+Seeds found : 198
+Seeds found : 284
+Seeds found : 374
+Seeds found : 469
+Seeds found : 561
+Seeds found : 649
+Seeds found : 737
+Seeds found : 819
+Seeds found : 894
+Weibo/Seeds/final_seeds_5g_05a_500s_3b.txt
+------------------
+Seeds found : 98
+Seeds found : 196
+Seeds found : 295
+Seeds found : 384
+Seeds found : 473
+Seeds found : 473
+Seeds found : 473
+Seeds found : 473
+Seeds found : 473
+Seeds found : 473
+Weibo/Seeds/final_seeds_5g_05a_1000s_5b.txt
+------------------
+Seeds found : 100
+Seeds found : 198
+Seeds found : 294
+Seeds found : 380
+Seeds found : 469
+Seeds found : 554
+Seeds found : 641
+Seeds found : 725
+Seeds found : 808
+Seeds found : 880
+Weibo/Seeds/final_seeds_5g_05a_1250s_0_1b.txt
+------------------
+Seeds found : 100
+Seeds found : 197
+Seeds found : 282
+Seeds found : 381
+Seeds found : 474
+Seeds found : 565
+Seeds found : 649
+Seeds found : 730
+Seeds found : 813
+Seeds found : 898
+Weibo/Seeds/avg_cascade_size_seeds.txt
+------------------
+Seeds found : 9
+Seeds found : 9
+Seeds found : 9
+Seeds found : 9
+Seeds found : 9
+Seeds found : 9
+Seeds found : 9
+Seeds found : 9
+Seeds found : 9
+Seeds found : 9
+Weibo/Seeds/final_seeds_5g_05a_1000s_7b.txt
+------------------
+Seeds found : 100
+Seeds found : 193
+Seeds found : 285
+Seeds found : 371
+Seeds found : 457
+Seeds found : 542
+Seeds found : 622
+Seeds found : 700
+Seeds found : 764
+Seeds found : 764
+Weibo/Seeds/final_seeds_5g_05a_750s_1b.txt
+------------------
+Seeds found : 100
+Seeds found : 196
+Seeds found : 294
+Seeds found : 382
+Seeds found : 461
+Seeds found : 532
+Seeds found : 611
+Seeds found : 656
+Seeds found : 656
+Seeds found : 656
+Weibo/Seeds/final_seeds_5g_05a_1250s_7b.txt
+------------------
+Seeds found : 98
+Seeds found : 191
+Seeds found : 282
+Seeds found : 359
+Seeds found : 440
+Seeds found : 514
+Seeds found : 604
+Seeds found : 696
+Seeds found : 762
+Seeds found : 762
+Weibo/Seeds/final_seeds_5g_05a_500s_0_5b.txt
+------------------
+Seeds found : 100
+Seeds found : 199
+Seeds found : 289
+Seeds found : 385
+Seeds found : 479
+Seeds found : 479
+Seeds found : 479
+Seeds found : 479
+Seeds found : 479
+Seeds found : 479
+Weibo/Seeds/participated_seeds.txt
+------------------
+Seeds found : 35
+Seeds found : 35
+Seeds found : 35
+Seeds found : 35
+Seeds found : 35
+Seeds found : 35
+Seeds found : 35
+Seeds found : 35
+Seeds found : 35
+Seeds found : 35
+Weibo/Seeds/final_seeds_5g_05a_1000s_0_1b.txt
+------------------
+Seeds found : 100
+Seeds found : 196
+Seeds found : 292
+Seeds found : 390
+Seeds found : 484
+Seeds found : 568
+Seeds found : 659
+Seeds found : 742
+Seeds found : 822
+Seeds found : 896
+Weibo/Seeds/final_seeds_5g_05a_250s_3b.txt
+------------------
+Seeds found : 97
+Seeds found : 194
+Seeds found : 242
+Seeds found : 242
+Seeds found : 242
+Seeds found : 242
+Seeds found : 242
+Seeds found : 242
+Seeds found : 242
+Seeds found : 242
+Weibo/Seeds/final_seeds_5g_05a_750s_0_1b.txt
+------------------
+Seeds found : 100
+Seeds found : 197
+Seeds found : 279
+Seeds found : 372
+Seeds found : 471
+Seeds found : 561
+Seeds found : 649
+Seeds found : 694
+Seeds found : 694
+Seeds found : 694
+Weibo/Seeds/final_seeds_5g_05a_750s_3b.txt
+------------------
+Seeds found : 97
+Seeds found : 196
+Seeds found : 290
+Seeds found : 384
+Seeds found : 472
+Seeds found : 564
+Seeds found : 647
+Seeds found : 688
+Seeds found : 688
+Seeds found : 688
+Weibo/Seeds/final_seeds_5g_05a_250s_0_1b.txt
+------------------
+Seeds found : 100
+Seeds found : 197
+Seeds found : 244
+Seeds found : 244
+Seeds found : 244
+Seeds found : 244
+Seeds found : 244
+Seeds found : 244
+Seeds found : 244
+Seeds found : 244
+Weibo/Seeds/final_seeds_5g_05a_250s_0_5b.txt
+------------------
+Seeds found : 100
+Seeds found : 198
+Seeds found : 248
+Seeds found : 248
+Seeds found : 248
+Seeds found : 248
+Seeds found : 248
+Seeds found : 248
+Seeds found : 248
+Seeds found : 248
+Weibo/Seeds/kcores_seeds.txt
+------------------
+Seeds found : 49
+Seeds found : 49
+Seeds found : 49
+Seeds found : 49
+Seeds found : 49
+Seeds found : 49
+Seeds found : 49
+Seeds found : 49
+Seeds found : 49
+Seeds found : 49
+Weibo/Seeds/final_seeds_5g_05a_1250s_5b.txt
+------------------
+Seeds found : 99
+Seeds found : 199
+Seeds found : 296
+Seeds found : 384
+Seeds found : 463
+Seeds found : 551
+Seeds found : 637
+Seeds found : 723
+Seeds found : 796
+Seeds found : 882
+Weibo/Seeds/final_seeds_5g_05a_250s_1b.txt
+------------------
+Seeds found : 100
+Seeds found : 198
+Seeds found : 247
+Seeds found : 247
+Seeds found : 247
+Seeds found : 247
+Seeds found : 247
+Seeds found : 247
+Seeds found : 247
+Seeds found : 247
+Weibo/Seeds/final_seeds_5g_05a_1250s_3b.txt
+------------------
+Seeds found : 99
+Seeds found : 197
+Seeds found : 294
+Seeds found : 386
+Seeds found : 474
+Seeds found : 563
+Seeds found : 650
+Seeds found : 738
+Seeds found : 815
+Seeds found : 895
+Weibo/Seeds/final_seeds_5g_05a_250s_7b.txt
+------------------
+Seeds found : 95
+Seeds found : 188
+Seeds found : 236
+Seeds found : 236
+Seeds found : 236
+Seeds found : 236
+Seeds found : 236
+Seeds found : 236
+Seeds found : 236
+Seeds found : 236
+Weibo/Seeds/final_seeds_5g_05a_750s_0_5b.txt
+------------------
+Seeds found : 99
+Seeds found : 195
+Seeds found : 286
+Seeds found : 357
+Seeds found : 426
+Seeds found : 503
+Seeds found : 586
+Seeds found : 615
+Seeds found : 615
+Seeds found : 615
+Weibo/Seeds/final_seeds_5g_05a_1000s_0_5b.txt
+------------------
+Seeds found : 99
+Seeds found : 198
+Seeds found : 293
+Seeds found : 393
+Seeds found : 481
+Seeds found : 566
+Seeds found : 654
+Seeds found : 739
+Seeds found : 821
+Seeds found : 896
+Weibo/Seeds/final_seeds_5g_05a_500s_7b.txt
+------------------
+Seeds found : 98
+Seeds found : 194
+Seeds found : 285
+Seeds found : 376
+Seeds found : 464
+Seeds found : 464
+Seeds found : 464
+Seeds found : 464
+Seeds found : 464
+Seeds found : 464
+Weibo/Seeds/final_seeds_5g_05a_500s_0_1b.txt
+------------------
+Seeds found : 99
+Seeds found : 198
+Seeds found : 279
+Seeds found : 362
+Seeds found : 455
+Seeds found : 455
+Seeds found : 455
+Seeds found : 455
+Seeds found : 455
+Seeds found : 455
+Weibo/Seeds/final_seeds_5g_05a_1250s_1b.txt
+------------------
+Seeds found : 100
+Seeds found : 199
+Seeds found : 290
+Seeds found : 388
+Seeds found : 481
+Seeds found : 578
+Seeds found : 660
+Seeds found : 740
+Seeds found : 819
+Seeds found : 896
+Weibo/Seeds/final_seeds.txt
+------------------
+Seeds found : 96
+Seeds found : 192
+Seeds found : 283
+Seeds found : 374
+Seeds found : 456
+Seeds found : 552
+Seeds found : 636
+Seeds found : 718
+Seeds found : 795
+Seeds found : 872
+Weibo/Seeds/final_seeds_5g_05a_750s_5b.txt
+------------------
+Seeds found : 96
+Seeds found : 194
+Seeds found : 288
+Seeds found : 377
+Seeds found : 469
+Seeds found : 557
+Seeds found : 638
+Seeds found : 673
+Seeds found : 673
+Seeds found : 673

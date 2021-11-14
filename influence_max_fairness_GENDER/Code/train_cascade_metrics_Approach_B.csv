@@ -1,0 +1,13 @@
+seed_file_name,total_distincet_infected_nodes,total_males_in_casc,total_females_in_cas,males_fraction_in_casc,females_fraction_in_casc,fairness_score_value
+../Data/Weibo/Seeds/final_seeds_5g_05a_200s_1_4b.txt,706480,293591,412889,0.4156,0.5844,0.3621
+../Data/Weibo/Seeds/final_seeds_5g_05a_300s_0_09b.txt,948556,411025,537531,0.4333,0.5667,0.3893
+../Data/Weibo/Seeds/final_seeds_5g_05a_300s_0_07b.txt,951717,411656,540061,0.4325,0.5675,0.3881
+../Data/Weibo/Seeds/final_seeds_5g_05a_200s_0_09b.txt,890193,378034,512159,0.4247,0.5753,0.3758
+../Data/Weibo/Seeds/final_seeds_5g_05a_200s_0_08b.txt,892140,383087,509053,0.4294,0.5706,0.3832
+../Data/Weibo/Seeds/final_seeds_5g_05a_200s_1_6b.txt,879201,373706,505495,0.4251,0.5749,0.3764
+../Data/Weibo/Seeds/final_seeds_5g_05a_200s_0_06b.txt,891205,379754,511451,0.4261,0.5739,0.3781
+../Data/Weibo/Seeds/final_seeds_5g_05a_200s_0_07b.txt,888609,378436,510173,0.4259,0.5741,0.3777
+../Data/Weibo/Seeds/final_seeds_5g_05a_300s_0_05b.txt,921005,397393,523612,0.4315,0.5685,0.3864
+../Data/Weibo/Seeds/final_seeds_5g_05a_300s_0_08b.txt,935817,403058,532759,0.4307,0.5693,0.3852
+../Data/Weibo/Seeds/final_seeds_5g_05a_200s_1_2b.txt,926692,400028,526664,0.4317,0.5683,0.3867
+../Data/Weibo/Seeds/final_seeds_5g_05a_200s_2_0b.txt,922752,399114,523638,0.4325,0.5675,0.3881

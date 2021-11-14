@@ -1,0 +1,539 @@
+Current working directory for the code /home/ec2-user/SageMaker/influence_max_fairness/Data
+Reading the network
+Completed reading the network.
+------------------- 1000
+------------------- 2000
+------------------- 3000
+------------------- 4000
+------------------- 5000
+------------------- 6000
+------------------- 7000
+------------------- 8000
+------------------- 9000
+------------------- 10000
+------------------- 11000
+------------------- 12000
+------------------- 13000
+------------------- 14000
+------------------- 15000
+------------------- 16000
+------------------- 17000
+------------------- 18000
+------------------- 19000
+------------------- 20000
+------------------- 21000
+------------------- 22000
+------------------- 23000
+------------------- 24000
+------------------- 25000
+------------------- 26000
+------------------- 27000
+------------------- 28000
+------------------- 29000
+------------------- 30000
+------------------- 31000
+------------------- 32000
+------------------- 33000
+------------------- 34000
+------------------- 35000
+------------------- 36000
+------------------- 37000
+------------------- 38000
+------------------- 39000
+------------------- 40000
+------------------- 41000
+------------------- 42000
+------------------- 43000
+------------------- 44000
+------------------- 45000
+------------------- 46000
+------------------- 47000
+------------------- 48000
+------------------- 49000
+------------------- 50000
+------------------- 51000
+------------------- 52000
+------------------- 53000
+------------------- 54000
+------------------- 55000
+------------------- 56000
+------------------- 57000
+------------------- 58000
+------------------- 59000
+------------------- 60000
+------------------- 61000
+------------------- 62000
+------------------- 63000
+------------------- 64000
+------------------- 65000
+------------------- 66000
+------------------- 67000
+------------------- 68000
+------------------- 69000
+------------------- 70000
+------------------- 71000
+------------------- 72000
+------------------- 73000
+------------------- 74000
+------------------- 75000
+------------------- 76000
+------------------- 77000
+------------------- 78000
+------------------- 79000
+------------------- 80000
+------------------- 81000
+------------------- 82000
+------------------- 83000
+------------------- 84000
+------------------- 85000
+------------------- 86000
+------------------- 87000
+------------------- 88000
+------------------- 89000
+------------------- 90000
+------------------- 91000
+------------------- 92000
+------------------- 93000
+Number of nodes not found in the graph:  0
+Evaluating fairnsess score of each influencer in train_cascades
+8764
+1170688
+Loss 3 at step 1000: [[0.]]
+Loss 2 at step 1000: [[0.]]
+Loss 1 at step 1000: 75.86157
+Loss 3 at step 2000: [[0.]]
+Loss 2 at step 2000: [[0.]]
+Loss 1 at step 2000: 58.554825
+Loss 3 at step 3000: [[0.]]
+Loss 2 at step 3000: [[0.]]
+Loss 1 at step 3000: 80.68009
+Loss 3 at step 4000: [[0.]]
+Loss 2 at step 4000: [[0.]]
+Loss 1 at step 4000: 58.31157
+Loss 3 at step 5000: [[0.]]
+Loss 2 at step 5000: [[0.]]
+Loss 1 at step 5000: 51.6188
+Loss 3 at step 6000: [[0.]]
+Loss 2 at step 6000: [[0.]]
+Loss 1 at step 6000: 50.422897
+Loss 3 at step 7000: [[0.]]
+Loss 2 at step 7000: [[0.]]
+Loss 1 at step 7000: 44.49141
+Loss 3 at step 8000: [[0.]]
+Loss 2 at step 8000: [[0.]]
+Loss 1 at step 8000: 45.63599
+Loss 3 at step 9000: [[0.]]
+Loss 2 at step 9000: [[0.]]
+Loss 1 at step 9000: 65.402824
+Loss 3 at step 10000: [[0.]]
+Loss 2 at step 10000: [[0.]]
+Loss 1 at step 10000: 47.81462
+Loss 3 at step 11000: [[0.]]
+Loss 2 at step 11000: [[0.]]
+Loss 1 at step 11000: 58.319946
+Loss 3 at step 12000: [[0.]]
+Loss 2 at step 12000: [[0.]]
+Loss 1 at step 12000: 65.156006
+Loss 3 at step 13000: [[0.]]
+Loss 2 at step 13000: [[0.]]
+Loss 1 at step 13000: 78.07346
+Loss 3 at step 14000: [[0.]]
+Loss 2 at step 14000: [[0.]]
+Loss 1 at step 14000: 56.16131
+Loss 3 at step 15000: [[0.]]
+Loss 2 at step 15000: [[0.]]
+Loss 1 at step 15000: 75.24041
+Loss 3 at step 16000: [[0.]]
+Loss 2 at step 16000: [[0.]]
+Loss 1 at step 16000: 82.4874
+Loss 3 at step 17000: [[0.]]
+Loss 2 at step 17000: [[0.]]
+Loss 1 at step 17000: 55.0278
+Loss 3 at step 18000: [[0.]]
+Loss 2 at step 18000: [[0.]]
+Loss 1 at step 18000: 31.416513
+Loss 3 at step 19000: [[0.]]
+Loss 2 at step 19000: [[0.]]
+Loss 1 at step 19000: 50.873398
+Loss 3 at step 20000: [[0.]]
+Loss 2 at step 20000: [[0.]]
+Loss 1 at step 20000: 32.679
+Loss 3 at step 21000: [[0.]]
+Loss 2 at step 21000: [[0.]]
+Loss 1 at step 21000: 71.21761
+Loss 3 at step 22000: [[0.]]
+Loss 2 at step 22000: [[0.]]
+Loss 1 at step 22000: 66.013596
+Loss 3 at step 23000: [[0.]]
+Loss 2 at step 23000: [[0.]]
+Loss 1 at step 23000: 41.717785
+Loss 3 at step 24000: [[0.]]
+Loss 2 at step 24000: [[0.]]
+Loss 1 at step 24000: 86.10315
+Loss 3 at step 25000: [[0.]]
+Loss 2 at step 25000: [[0.]]
+Loss 1 at step 25000: 43.754566
+Loss 3 at step 26000: [[0.]]
+Loss 2 at step 26000: [[0.]]
+Loss 1 at step 26000: 57.89699
+Loss 3 at step 27000: [[0.]]
+Loss 2 at step 27000: [[0.]]
+Loss 1 at step 27000: 42.651173
+Loss 3 at step 28000: [[0.]]
+Loss 2 at step 28000: [[0.]]
+Loss 1 at step 28000: 79.81347
+Loss 3 at step 1000: [[0.]]
+Loss 2 at step 1000: [[0.]]
+Loss 1 at step 1000: 39.4949
+Loss 3 at step 2000: [[0.]]
+Loss 2 at step 2000: [[0.]]
+Loss 1 at step 2000: 69.03671
+Loss 3 at step 3000: [[0.]]
+Loss 2 at step 3000: [[0.]]
+Loss 1 at step 3000: 34.86115
+Loss 3 at step 4000: [[0.]]
+Loss 2 at step 4000: [[0.]]
+Loss 1 at step 4000: 32.089718
+Loss 3 at step 5000: [[0.]]
+Loss 2 at step 5000: [[0.]]
+Loss 1 at step 5000: 61.439777
+Loss 3 at step 6000: [[0.]]
+Loss 2 at step 6000: [[0.]]
+Loss 1 at step 6000: 58.20156
+Loss 3 at step 7000: [[0.]]
+Loss 2 at step 7000: [[0.]]
+Loss 1 at step 7000: 38.53889
+Loss 3 at step 8000: [[0.]]
+Loss 2 at step 8000: [[0.]]
+Loss 1 at step 8000: 41.26755
+Loss 3 at step 9000: [[0.]]
+Loss 2 at step 9000: [[0.]]
+Loss 1 at step 9000: 54.837456
+Loss 3 at step 10000: [[0.]]
+Loss 2 at step 10000: [[0.]]
+Loss 1 at step 10000: 79.52582
+Loss 3 at step 11000: [[0.]]
+Loss 2 at step 11000: [[0.]]
+Loss 1 at step 11000: 28.52658
+Loss 3 at step 12000: [[0.]]
+Loss 2 at step 12000: [[0.]]
+Loss 1 at step 12000: 36.235405
+Loss 3 at step 13000: [[0.]]
+Loss 2 at step 13000: [[0.]]
+Loss 1 at step 13000: 43.93623
+Loss 3 at step 14000: [[0.]]
+Loss 2 at step 14000: [[0.]]
+Loss 1 at step 14000: 27.998201
+Loss 3 at step 15000: [[0.]]
+Loss 2 at step 15000: [[0.]]
+Loss 1 at step 15000: 32.641506
+Loss 3 at step 16000: [[0.]]
+Loss 2 at step 16000: [[0.]]
+Loss 1 at step 16000: 27.955278
+Loss 3 at step 17000: [[0.]]
+Loss 2 at step 17000: [[0.]]
+Loss 1 at step 17000: 64.31208
+Loss 3 at step 18000: [[0.]]
+Loss 2 at step 18000: [[0.]]
+Loss 1 at step 18000: 33.574013
+Loss 3 at step 19000: [[0.]]
+Loss 2 at step 19000: [[0.]]
+Loss 1 at step 19000: 39.508984
+Loss 3 at step 20000: [[0.]]
+Loss 2 at step 20000: [[0.]]
+Loss 1 at step 20000: 42.39922
+Loss 3 at step 21000: [[0.]]
+Loss 2 at step 21000: [[0.]]
+Loss 1 at step 21000: 24.395271
+Loss 3 at step 22000: [[0.]]
+Loss 2 at step 22000: [[0.]]
+Loss 1 at step 22000: 70.75946
+Loss 3 at step 23000: [[0.]]
+Loss 2 at step 23000: [[0.]]
+Loss 1 at step 23000: 27.415236
+Loss 3 at step 24000: [[0.]]
+Loss 2 at step 24000: [[0.]]
+Loss 1 at step 24000: 27.72163
+Loss 3 at step 25000: [[0.]]
+Loss 2 at step 25000: [[0.]]
+Loss 1 at step 25000: 34.235725
+Loss 3 at step 26000: [[0.]]
+Loss 2 at step 26000: [[0.]]
+Loss 1 at step 26000: 24.72811
+Loss 3 at step 27000: [[0.]]
+Loss 2 at step 27000: [[0.]]
+Loss 1 at step 27000: 34.10977
+Loss 3 at step 28000: [[0.]]
+Loss 2 at step 28000: [[0.]]
+Loss 1 at step 28000: 41.973213
+Loss 3 at step 1000: [[0.]]
+Loss 2 at step 1000: [[0.]]
+Loss 1 at step 1000: 36.84322
+Loss 3 at step 2000: [[0.]]
+Loss 2 at step 2000: [[0.]]
+Loss 1 at step 2000: 5.197118
+Loss 3 at step 3000: [[0.]]
+Loss 2 at step 3000: [[0.]]
+Loss 1 at step 3000: 20.218916
+Loss 3 at step 4000: [[0.]]
+Loss 2 at step 4000: [[0.]]
+Loss 1 at step 4000: 36.656918
+Loss 3 at step 5000: [[0.]]
+Loss 2 at step 5000: [[0.]]
+Loss 1 at step 5000: 57.084167
+Loss 3 at step 6000: [[0.]]
+Loss 2 at step 6000: [[0.]]
+Loss 1 at step 6000: 27.719925
+Loss 3 at step 7000: [[0.]]
+Loss 2 at step 7000: [[0.]]
+Loss 1 at step 7000: 11.828427
+Loss 3 at step 8000: [[0.]]
+Loss 2 at step 8000: [[0.]]
+Loss 1 at step 8000: 37.271404
+Loss 3 at step 9000: [[0.]]
+Loss 2 at step 9000: [[0.]]
+Loss 1 at step 9000: 57.42492
+Loss 3 at step 10000: [[0.]]
+Loss 2 at step 10000: [[0.]]
+Loss 1 at step 10000: 45.561966
+Loss 3 at step 11000: [[0.]]
+Loss 2 at step 11000: [[0.]]
+Loss 1 at step 11000: 18.202595
+Loss 3 at step 12000: [[0.]]
+Loss 2 at step 12000: [[0.]]
+Loss 1 at step 12000: 20.021196
+Loss 3 at step 13000: [[0.]]
+Loss 2 at step 13000: [[0.]]
+Loss 1 at step 13000: 45.628845
+Loss 3 at step 14000: [[0.]]
+Loss 2 at step 14000: [[0.]]
+Loss 1 at step 14000: 37.967346
+Loss 3 at step 15000: [[0.]]
+Loss 2 at step 15000: [[0.]]
+Loss 1 at step 15000: 57.680534
+Loss 3 at step 16000: [[0.]]
+Loss 2 at step 16000: [[0.]]
+Loss 1 at step 16000: 17.624813
+Loss 3 at step 17000: [[0.]]
+Loss 2 at step 17000: [[0.]]
+Loss 1 at step 17000: 35.429
+Loss 3 at step 18000: [[0.]]
+Loss 2 at step 18000: [[0.]]
+Loss 1 at step 18000: 37.639847
+Loss 3 at step 19000: [[0.]]
+Loss 2 at step 19000: [[0.]]
+Loss 1 at step 19000: 47.275043
+Loss 3 at step 20000: [[0.]]
+Loss 2 at step 20000: [[0.]]
+Loss 1 at step 20000: 9.917099
+Loss 3 at step 21000: [[0.]]
+Loss 2 at step 21000: [[0.]]
+Loss 1 at step 21000: 50.03647
+Loss 3 at step 22000: [[0.]]
+Loss 2 at step 22000: [[0.]]
+Loss 1 at step 22000: 25.14907
+Loss 3 at step 23000: [[0.]]
+Loss 2 at step 23000: [[0.]]
+Loss 1 at step 23000: 47.83693
+Loss 3 at step 24000: [[0.]]
+Loss 2 at step 24000: [[0.]]
+Loss 1 at step 24000: 57.11331
+Loss 3 at step 25000: [[0.]]
+Loss 2 at step 25000: [[0.]]
+Loss 1 at step 25000: 44.442207
+Loss 3 at step 26000: [[0.]]
+Loss 2 at step 26000: [[0.]]
+Loss 1 at step 26000: 37.824287
+Loss 3 at step 27000: [[0.]]
+Loss 2 at step 27000: [[0.]]
+Loss 1 at step 27000: 45.65456
+Loss 3 at step 28000: [[0.]]
+Loss 2 at step 28000: [[0.]]
+Loss 1 at step 28000: 68.34639
+Loss 3 at step 1000: [[0.]]
+Loss 2 at step 1000: [[0.]]
+Loss 1 at step 1000: 23.866793
+Loss 3 at step 2000: [[0.]]
+Loss 2 at step 2000: [[0.]]
+Loss 1 at step 2000: 56.15398
+Loss 3 at step 3000: [[0.]]
+Loss 2 at step 3000: [[0.]]
+Loss 1 at step 3000: 37.17995
+Loss 3 at step 4000: [[0.]]
+Loss 2 at step 4000: [[0.]]
+Loss 1 at step 4000: 25.07071
+Loss 3 at step 5000: [[0.]]
+Loss 2 at step 5000: [[0.]]
+Loss 1 at step 5000: 28.87295
+Loss 3 at step 6000: [[0.]]
+Loss 2 at step 6000: [[0.]]
+Loss 1 at step 6000: 13.729329
+Loss 3 at step 7000: [[0.]]
+Loss 2 at step 7000: [[0.]]
+Loss 1 at step 7000: 43.867092
+Loss 3 at step 8000: [[0.]]
+Loss 2 at step 8000: [[0.]]
+Loss 1 at step 8000: 48.808044
+Loss 3 at step 9000: [[0.]]
+Loss 2 at step 9000: [[0.]]
+Loss 1 at step 9000: 44.617836
+Loss 3 at step 10000: [[0.]]
+Loss 2 at step 10000: [[0.]]
+Loss 1 at step 10000: 55.89498
+Loss 3 at step 11000: [[0.]]
+Loss 2 at step 11000: [[0.]]
+Loss 1 at step 11000: 62.213448
+Loss 3 at step 12000: [[0.]]
+Loss 2 at step 12000: [[0.]]
+Loss 1 at step 12000: 44.21218
+Loss 3 at step 13000: [[0.]]
+Loss 2 at step 13000: [[0.]]
+Loss 1 at step 13000: 52.6179
+Loss 3 at step 14000: [[0.]]
+Loss 2 at step 14000: [[0.]]
+Loss 1 at step 14000: 37.978325
+Loss 3 at step 15000: [[0.]]
+Loss 2 at step 15000: [[0.]]
+Loss 1 at step 15000: 25.949583
+Loss 3 at step 16000: [[0.]]
+Loss 2 at step 16000: [[0.]]
+Loss 1 at step 16000: 36.934605
+Loss 3 at step 17000: [[0.]]
+Loss 2 at step 17000: [[0.]]
+Loss 1 at step 17000: 0.025395272
+Loss 3 at step 18000: [[0.]]
+Loss 2 at step 18000: [[0.]]
+Loss 1 at step 18000: 63.983513
+Loss 3 at step 19000: [[0.]]
+Loss 2 at step 19000: [[0.]]
+Loss 1 at step 19000: 10.13895
+Loss 3 at step 20000: [[0.]]
+Loss 2 at step 20000: [[0.]]
+Loss 1 at step 20000: 41.01084
+Loss 3 at step 21000: [[0.]]
+Loss 2 at step 21000: [[0.]]
+Loss 1 at step 21000: 33.95568
+Loss 3 at step 22000: [[0.]]
+Loss 2 at step 22000: [[0.]]
+Loss 1 at step 22000: 34.553886
+Loss 3 at step 23000: [[0.]]
+Loss 2 at step 23000: [[0.]]
+Loss 1 at step 23000: 2.1128375e-07
+Loss 3 at step 24000: [[0.]]
+Loss 2 at step 24000: [[0.]]
+Loss 1 at step 24000: 42.981922
+Loss 3 at step 25000: [[0.]]
+Loss 2 at step 25000: [[0.]]
+Loss 1 at step 25000: 50.098213
+Loss 3 at step 26000: [[0.]]
+Loss 2 at step 26000: [[0.]]
+Loss 1 at step 26000: 11.537205
+Loss 3 at step 27000: [[0.]]
+Loss 2 at step 27000: [[0.]]
+Loss 1 at step 27000: 43.874996
+Loss 3 at step 28000: [[0.]]
+Loss 2 at step 28000: [[0.]]
+Loss 1 at step 28000: 65.15091
+Loss 3 at step 1000: [[0.]]
+Loss 2 at step 1000: [[0.]]
+Loss 1 at step 1000: 36.970882
+Loss 3 at step 2000: [[0.]]
+Loss 2 at step 2000: [[0.]]
+Loss 1 at step 2000: 19.433025
+Loss 3 at step 3000: [[0.]]
+Loss 2 at step 3000: [[0.]]
+Loss 1 at step 3000: 25.202215
+Loss 3 at step 4000: [[0.]]
+Loss 2 at step 4000: [[0.]]
+Loss 1 at step 4000: 15.3841095
+Loss 3 at step 5000: [[0.]]
+Loss 2 at step 5000: [[0.]]
+Loss 1 at step 5000: 28.532457
+Loss 3 at step 6000: [[0.]]
+Loss 2 at step 6000: [[0.]]
+Loss 1 at step 6000: 40.043694
+Loss 3 at step 7000: [[0.]]
+Loss 2 at step 7000: [[0.]]
+Loss 1 at step 7000: 47.309128
+Loss 3 at step 8000: [[0.]]
+Loss 2 at step 8000: [[0.]]
+Loss 1 at step 8000: 38.17043
+Loss 3 at step 9000: [[0.]]
+Loss 2 at step 9000: [[0.]]
+Loss 1 at step 9000: 28.365095
+Loss 3 at step 10000: [[0.]]
+Loss 2 at step 10000: [[0.]]
+Loss 1 at step 10000: 29.030758
+Loss 3 at step 11000: [[0.]]
+Loss 2 at step 11000: [[0.]]
+Loss 1 at step 11000: 64.552185
+Loss 3 at step 12000: [[0.]]
+Loss 2 at step 12000: [[0.]]
+Loss 1 at step 12000: 14.556703
+Loss 3 at step 13000: [[0.]]
+Loss 2 at step 13000: [[0.]]
+Loss 1 at step 13000: 46.89683
+Loss 3 at step 14000: [[0.]]
+Loss 2 at step 14000: [[0.]]
+Loss 1 at step 14000: 12.980381
+Loss 3 at step 15000: [[0.]]
+Loss 2 at step 15000: [[0.]]
+Loss 1 at step 15000: 22.310001
+Loss 3 at step 16000: [[0.]]
+Loss 2 at step 16000: [[0.]]
+Loss 1 at step 16000: 47.580555
+Loss 3 at step 17000: [[0.]]
+Loss 2 at step 17000: [[0.]]
+Loss 1 at step 17000: 13.843907
+Loss 3 at step 18000: [[0.]]
+Loss 2 at step 18000: [[0.]]
+Loss 1 at step 18000: 37.055885
+Loss 3 at step 19000: [[0.]]
+Loss 2 at step 19000: [[0.]]
+Loss 1 at step 19000: 8.632955
+Loss 3 at step 20000: [[0.]]
+Loss 2 at step 20000: [[0.]]
+Loss 1 at step 20000: 32.103825
+Loss 3 at step 21000: [[0.]]
+Loss 2 at step 21000: [[0.]]
+Loss 1 at step 21000: 51.639904
+Loss 3 at step 22000: [[0.]]
+Loss 2 at step 22000: [[0.]]
+Loss 1 at step 22000: 36.259758
+Loss 3 at step 23000: [[0.]]
+Loss 2 at step 23000: [[0.]]
+Loss 1 at step 23000: 7.7500057
+Loss 3 at step 24000: [[0.]]
+Loss 2 at step 24000: [[0.]]
+Loss 1 at step 24000: 36.53795
+Loss 3 at step 25000: [[0.]]
+Loss 2 at step 25000: [[0.]]
+Loss 1 at step 25000: 27.830341
+Loss 3 at step 26000: [[0.]]
+Loss 2 at step 26000: [[0.]]
+Loss 1 at step 26000: 51.421783
+Loss 3 at step 27000: [[0.]]
+Loss 2 at step 27000: [[0.]]
+Loss 1 at step 27000: 16.520159
+Loss 3 at step 28000: [[0.]]
+Loss 2 at step 28000: [[0.]]
+Loss 1 at step 28000: 0.19987626
+8764
+50
+100
+150
+200
+250
+300
+350
+400
+450
+500
+550
+600
+650
+700
+750
+800
+850
+Time taken for the execution and writing Weibo/Seeds/final_seeds_5g_05a_1250s_7b.txt: 4309.949

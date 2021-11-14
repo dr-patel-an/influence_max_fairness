@@ -1,0 +1,53 @@
+ net:weibo
+Feature extraction time:1323.5851814746857
+K-core time:1347.7130255699158
+Time for wc weibo network:785.6333634853363
+Time taken for the weibo infector:1611.6816852092743
+Time taken for the weibo infector:1778.3213520050049
+ net:weibo
+ net:weibo
+Feature extraction time:1306.0906760692596
+K-core time:1327.286930322647
+Time for wc weibo network:755.1076014041901
+Time taken for the weibo infector:1342.6409780979156
+ net:weibo
+Feature extraction time:1294.6556737422943
+K-core time:1314.928338766098
+Time for wc weibo network:752.813583612442
+Time taken for the weibo infector:1178.633530139923
+ net:weibo
+Feature extraction time:1299.3826286792755
+K-core time:1319.8002104759216
+Time for wc weibo network:766.2727212905884
+Time taken for the weibo infector:1063.2542827129364
+ net:weibo
+Feature extraction time:1331.6611626148224
+K-core time:1352.5150804519653
+Time for wc weibo network:743.8524813652039
+Time taken for the weibo infector:942.5211560726166
+ net:weibo
+Feature extraction time:1298.141103029251
+K-core time:1321.4412457942963
+Time for wc weibo network:783.5823273658752
+Time taken for the weibo infector:840.8920457363129
+ net:weibo
+Feature extraction time:1290.6181268692017
+K-core time:1311.0776357650757
+Time for wc weibo network:773.1486015319824
+Time taken for the weibo infector:1052.7091274261475
+ net:weibo
+Feature extraction time:1299.129153251648
+K-core time:1321.747575044632
+Time for wc weibo network:839.6457481384277
+Time taken for the weibo infector:1166.425784111023
+ net:weibo
+ net:weibo
+Feature extraction time:1318.3518381118774
+K-core time:1342.495953798294
+Time for wc weibo network:854.5353465080261
+Time taken for the weibo infector:1506.0028648376465
+ net:weibo
+Feature extraction time:1307.6604764461517
+K-core time:1329.5243453979492
+Time for wc weibo network:852.1474115848541
+Time taken for the weibo infector:1171.0277552604675

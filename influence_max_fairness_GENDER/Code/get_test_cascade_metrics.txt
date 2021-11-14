@@ -1,0 +1,109 @@
+total nodes in gender_dict: 1340816
+
+
+=============================../Data/Weibo/Seeds/final_seeds_5g_05a_200s_1_4b.txt=============================
+Seeds found : 165
+Distinct Nodes Infected:  229257
+total males in cascade = 92814
+total females in cascade = 136443
+males_fraction_in_cascade = 0.4048
+fairness score = 0.3464
+
+
+=============================../Data/Weibo/Seeds/final_seeds_5g_05a_300s_0_09b.txt=============================
+Seeds found : 292
+Distinct Nodes Infected:  402620
+total males in cascade = 166959
+total females in cascade = 235661
+males_fraction_in_cascade = 0.4147
+fairness score = 0.3607
+
+
+=============================../Data/Weibo/Seeds/final_seeds_5g_05a_300s_0_07b.txt=============================
+Seeds found : 294
+Distinct Nodes Infected:  413972
+total males in cascade = 170751
+total females in cascade = 243221
+males_fraction_in_cascade = 0.4125
+fairness score = 0.3575
+
+
+=============================../Data/Weibo/Seeds/final_seeds_5g_05a_200s_0_09b.txt=============================
+Seeds found : 197
+Distinct Nodes Infected:  343355
+total males in cascade = 139723
+total females in cascade = 203632
+males_fraction_in_cascade = 0.4069
+fairness score = 0.3494
+
+
+=============================../Data/Weibo/Seeds/final_seeds_5g_05a_200s_0_08b.txt=============================
+Seeds found : 198
+Distinct Nodes Infected:  334913
+total males in cascade = 136567
+total females in cascade = 198346
+males_fraction_in_cascade = 0.4078
+fairness score = 0.3506
+
+
+=============================../Data/Weibo/Seeds/final_seeds_5g_05a_200s_1_6b.txt=============================
+Seeds found : 198
+Distinct Nodes Infected:  345684
+total males in cascade = 143253
+total females in cascade = 202431
+males_fraction_in_cascade = 0.4144
+fairness score = 0.3603
+
+
+=============================../Data/Weibo/Seeds/final_seeds_5g_05a_200s_0_06b.txt=============================
+Seeds found : 195
+Distinct Nodes Infected:  355522
+total males in cascade = 148197
+total females in cascade = 207325
+males_fraction_in_cascade = 0.4168
+fairness score = 0.364
+
+
+=============================../Data/Weibo/Seeds/final_seeds_5g_05a_200s_0_07b.txt=============================
+Seeds found : 196
+Distinct Nodes Infected:  339667
+total males in cascade = 139433
+total females in cascade = 200234
+males_fraction_in_cascade = 0.4105
+fairness score = 0.3546
+
+
+=============================../Data/Weibo/Seeds/final_seeds_5g_05a_300s_0_05b.txt=============================
+Seeds found : 264
+Distinct Nodes Infected:  372138
+total males in cascade = 154025
+total females in cascade = 218113
+males_fraction_in_cascade = 0.4139
+fairness score = 0.3596
+
+
+=============================../Data/Weibo/Seeds/final_seeds_5g_05a_300s_0_08b.txt=============================
+Seeds found : 290
+Distinct Nodes Infected:  397046
+total males in cascade = 165037
+total females in cascade = 232009
+males_fraction_in_cascade = 0.4157
+fairness score = 0.3622
+
+
+=============================../Data/Weibo/Seeds/final_seeds_5g_05a_200s_1_2b.txt=============================
+Seeds found : 197
+Distinct Nodes Infected:  383171
+total males in cascade = 159404
+total females in cascade = 223767
+males_fraction_in_cascade = 0.416
+fairness score = 0.3627
+
+
+=============================../Data/Weibo/Seeds/final_seeds_5g_05a_200s_2_0b.txt=============================
+Seeds found : 198
+Distinct Nodes Infected:  373457
+total males in cascade = 155067
+total females in cascade = 218390
+males_fraction_in_cascade = 0.4152
+fairness score = 0.3615
